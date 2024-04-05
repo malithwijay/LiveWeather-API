@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/4d10a66a-ec50-48a7-9933-c91a53876c82/resourceGroups/weather-application/providers/Microsoft.Web/sites/mltweatherapi",
+    "appService.deploySubpath": "."
+}
